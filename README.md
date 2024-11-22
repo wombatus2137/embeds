@@ -1,2 +1,2 @@
-# embeds
+# my-embeds
 My custom embeds.
